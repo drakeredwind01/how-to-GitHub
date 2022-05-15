@@ -94,11 +94,69 @@ This is a link to my [LinkedIn](https://www.linkedin.com/in/drake-redwind-368155
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Stitch_(Lilo_%26_Stitch).svg/1200px-Stitch_(Lilo_%26_Stitch).svg.png)
 ```
 
-#light mode only
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+## TODO list
+task also help by creating another `- [ ]` after hitting enter on the last time
+- [x] task 1
+- [ ] task 2
+- [ ] task 3
+- [ ] \(you need a `\` ) if the task begins with `()`
+```
+- [x] task 1
+- [ ] task 2
+- [ ] task 3
+- [ ] \(you need a `\` ) if the task begins with `()`
+```
 
-#dark mode only
-![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
+
+
+
+## "@" people
+This will alert that person to the post in the form of a notification
+@drakeredwind01
+```
+@drakeredwind01
+```
+
+
+
+
+## Footnotes
+footnotes are great for more information[^1].
+you can even use a word instead of a number[^drake]
+
+[^1]: My reference.
+[^drake]:
+    Named footnotes will still display numbers instead of text, but they will be easier to identify and link. 
+    you can use 2 or 4 spaces for footnotes
+```
+footnotes are great for more information[^1].
+you can even use a word instead of a number[^drake]
+
+[^1]: My reference.
+[^drake]:
+    Named footnotes will still display numbers instead of text, but they will be easier to identify and link. 
+    you can use 2 or 4 spaces for footnotes
+```
+
+
+
+
+## Hiding stuff
+trust me there is something below this line you can't see
+<!-- These are my private notes! You can't see these! -->
+^ there is something above this line you can't see
+```
+trust me there is something below this line you can't see
+<!-- These are my private notes! You can't see these! -->
+^ there is something above this line you can't see
+```
+
+
+
+
+
+
+
 
 
 
