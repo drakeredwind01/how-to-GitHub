@@ -154,6 +154,8 @@ you can even use a word instead of a number[^drake]
 
 
 ## Hiding stuff
+[^ go to top](#Github-formating)
+
 trust me there is something below this line you can't see
 <!-- These are my private notes! You can't see these! -->
 ^ there is something above this line you can't see
