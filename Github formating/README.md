@@ -4,6 +4,7 @@ Github formating
 
 
 
+
 ## Quick-Navigation
 
 
@@ -71,6 +72,7 @@ _Italic_
 
 
 # quoting someone
+- [go to top](#Github-formating)
 > All quotes start with a `>`
 ```
 > All quotes start with a `>`
@@ -87,6 +89,7 @@ _Italic_
 > > > > wow that's cool!
 ```
 ## linking URLs
+- [go to top](#Github-formating)
 This is a link to my [LinkedIn](https://www.linkedin.com/in/drake-redwind-36815512a/).  
 ```
 This is a link to my [LinkedIn](https://www.linkedin.com/in/drake-redwind-36815512a/).  
