@@ -15,7 +15,7 @@ Github formating
 - [Styling text](#Styling-text)
 - [how to display Images](#Images)
 - [TODO list](#TODO-list)
-- ["@" people](#"@"-people)
+- [notifying people](#notifying-people)
 - [Footnotes](#Footnotes)
 - [Hiding stuff](#Hiding-stuff)
 
@@ -129,7 +129,7 @@ task also help by creating another `- [ ]` after hitting enter on the last time
 
 
 
-## "@" people
+## notifying people
 [^ go to top](#Github-formating)
 
 This will alert that person to the post in the form of a notification
