@@ -10,13 +10,13 @@ Github formating
 - [text Sizes](#text-Size-1)
 - [quoting someone](#quoting-someone)
 - [Styling text](#Styling-text)
-- [linking URLs](##linking-URLs)
-- [Styling text](##Styling-text)
-- [how to display Images](##Images)
-- [TODO list](##TODO-list)
-- ["@" people](##"@"-people)
-- [Footnotes](##Footnotes)
-- [Hiding stuff](##Hiding-stuff)
+- [linking URLs](#linking-URLs)
+- [Styling text](#Styling-text)
+- [how to display Images](#Images)
+- [TODO list](#TODO-list)
+- ["@" people](#"@"-people)
+- [Footnotes](#Footnotes)
+- [Hiding stuff](#Hiding-stuff)
 
 
 
