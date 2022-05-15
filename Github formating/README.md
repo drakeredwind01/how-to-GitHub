@@ -6,7 +6,7 @@ Github formating
 
 
 ## Quick-Navigation
-
+[^ go to top](#Github-formating)
 
 - [text Sizes](#text-Size-1)
 - [quoting someone](#quoting-someone)
@@ -43,6 +43,7 @@ Github formating
 
 
 # Styling text
+[^ go to top](#Github-formating)
 
 **Bold**
 ```
@@ -73,6 +74,7 @@ _Italic_
 
 # quoting someone
 [^ go to top](#Github-formating)
+
 > All quotes start with a `>`
 ```
 > All quotes start with a `>`
@@ -90,6 +92,7 @@ _Italic_
 ```
 ## linking URLs
 [^ go to top](#Github-formating)
+
 This is a link to my [LinkedIn](https://www.linkedin.com/in/drake-redwind-36815512a/).  
 ```
 This is a link to my [LinkedIn](https://www.linkedin.com/in/drake-redwind-36815512a/).  
@@ -97,6 +100,8 @@ This is a link to my [LinkedIn](https://www.linkedin.com/in/drake-redwind-368155
 
 
 ## Images
+[^ go to top](#Github-formating)
+
 ![](https://yt3.ggpht.com/ytc/AKedOLSA-bBL64v5PJ9BduOo4-QC-Q1GC6O1rMO8z5kU=s176-c-k-c0x00ffffff-no-rj)
 ```
 ![](https://yt3.ggpht.com/ytc/AKedOLSA-bBL64v5PJ9BduOo4-QC-Q1GC6O1rMO8z5kU=s176-c-k-c0x00ffffff-no-rj)
@@ -107,6 +112,8 @@ This is a link to my [LinkedIn](https://www.linkedin.com/in/drake-redwind-368155
 ```
 
 ## TODO list
+[^ go to top](#Github-formating)
+
 task also help by creating another `- [ ]` after hitting enter on the last time
 - [x] task 1
 - [ ] task 2
@@ -123,6 +130,8 @@ task also help by creating another `- [ ]` after hitting enter on the last time
 
 
 ## "@" people
+[^ go to top](#Github-formating)
+
 This will alert that person to the post in the form of a notification
 @drakeredwind01
 ```
@@ -133,6 +142,8 @@ This will alert that person to the post in the form of a notification
 
 
 ## Footnotes
+[^ go to top](#Github-formating)
+
 footnotes are great for more information[^1].
 you can even use a word instead of a number[^drake]
 
