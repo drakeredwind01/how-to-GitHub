@@ -8,8 +8,8 @@ Github formating
 
 
 - [text Sizes](#text-Size-1)
-- [quoting someone](##quoting-someone)
-- [Styling text](##Styling-text)
+- [quoting someone](#quoting-someone)
+- [Styling text](#Styling-text)
 - [linking URLs](##linking-URLs)
 - [Styling text](##Styling-text)
 - [how to display Images](##Images)
@@ -41,7 +41,7 @@ Github formating
 
 
 
-## Styling text
+# Styling text
 
 **Bold**
 ```
@@ -70,7 +70,7 @@ _Italic_
 
 
 
-## quoting someone
+# quoting someone
 > All quotes start with a `>`
 ```
 > All quotes start with a `>`
