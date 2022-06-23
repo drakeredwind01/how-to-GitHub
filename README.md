@@ -7,7 +7,7 @@ how to GitHub
 ## Quick-Navigation
 
 
-- [text Sizes](#text-Size-1)
+- [text Sizes](##text-Size-1)
 - [quoting someone](##quoting-someone)
 - [Styling text](##Styling-text)
 
