@@ -127,7 +127,7 @@ you can even use a word instead of a number[^drake]
 [^1]: My reference.
 [^drake]:
     Named footnotes will still display numbers instead of text, but they will be easier to identify and link. 
-    you can use 2 or 4 spaces for footnotes
+    you can use 4 or more spaces for footnotes
 ```
 footnotes are great for more information[^1].
 you can even use a word instead of a number[^drake]
@@ -135,7 +135,7 @@ you can even use a word instead of a number[^drake]
 [^1]: My reference.
 [^drake]:
     Named footnotes will still display numbers instead of text, but they will be easier to identify and link. 
-    you can use 2 or 4 spaces for footnotes
+    you can use 4 or more spaces for footnotes
 ```
 
 
