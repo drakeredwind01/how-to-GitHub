@@ -50,6 +50,10 @@ _Italic_
 ```
 ~~Strikethrough~~
 ```
+<ins>This is the bottom line.<ins>
+```
+<ins>This is the bottom line.</ins>
+```
 **this is _very_ usefull**
 ```
 **this is _very_ usefull**
@@ -58,8 +62,10 @@ _Italic_
 ```
 ***All bold and italic***
 ```
-
-
+<ins>__***~~ALL OF THE ABOVE~~***__<ins>
+```
+<ins>__***~~ALL OF THE ABOVE~~***__<ins>
+```
 
 ## quoting someone
 > All quotes start with a `>`
