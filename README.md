@@ -160,23 +160,10 @@ trust me there is something below this line you can't see
 
 
 ## THE TEAM
-
-
-
-
 | <img src="https://avatars.githubusercontent.com/u/43461626?v=4"  width="100" height="100"> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCHZpuU6JeQHgxZaaQffwRRl8E_MYewDtamg&usqp=CAU" width="100" height="100"> |
 |--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | drakeredwind01                                                                             | turbosonic                                                                                                                               |
 | Founder                                                                                    | pending contributor                                                                                                                      |
-
-
-## THE TEAM
-
-
-<img src='' width='25%'>
-
-# <img src="https://avatars.githubusercontent.com/u/43461626?v=4" width='25%'>drakeredwind01
-# <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCHZpuU6JeQHgxZaaQffwRRl8E_MYewDtamg&usqp=CAU" width='25%'>turbosonic
 
 
 
